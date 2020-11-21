@@ -1,0 +1,6 @@
+# ignore everything
+data
+jupyter
+
+scripts/*
+!scripts/*.py
